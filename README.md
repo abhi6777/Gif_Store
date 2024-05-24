@@ -17,7 +17,9 @@ This is a simple web application that allows users to search for GIFs using the 
 ## Usage
 
 1. **Clone the repository**: 
-- ```git clone https://github.com/abhi6777/Gif_Store.git```
+ ``` sh
+ git clone https://github.com/abhi6777/Gif_Store.git
+ ```
 
 
 2. **Open the web page**: 
@@ -31,7 +33,7 @@ This is a simple web application that allows users to search for GIFs using the 
 
 ## Demo
 
-You can view a live demo of the project [here](#) (replace with the URL of your live demo if available).
+You can view a live demo of the project [here](https://abhi6777.github.io/Gif_Store/) (replace with the URL of your live demo if available).
 
 ## Contributing
 
